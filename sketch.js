@@ -15,15 +15,15 @@ function setup() {
  
     galaxy = loadImage("galxy.jpg");
     sun = loadImage("sun.jpg");
-    mercury=loadImage("planets/mercury.jpg");
-    venus=loadImage("planets/venus.jpg");
-    earth=loadImage("planets/earth.jpg");
-    mars=loadImage("planets/mars.jpg");
-    jupiter= loadImage("planets/jupiter.jpg");
-    saturn=loadImage("planets/saturn.jpg");
-    neptune=loadImage("planets/neptune.jpg");
-    ceres=loadImage("planets/ceres.jpg");
-    makemade=loadImage("planets/makemade.jpg");
+    mercury=loadImage("mercury.jpg");
+    venus=loadImage("venus.jpg");
+    earth=loadImage("earth.jpg");
+    mars=loadImage("mars.jpg");
+    jupiter= loadImage("jupiter.jpg");
+    saturn=loadImage("saturn.jpg");
+    neptune=loadImage("neptune.jpg");
+    ceres=loadImage("ceres.jpg");
+    makemade=loadImage("makemade.jpg");
     noStroke();
   
   
